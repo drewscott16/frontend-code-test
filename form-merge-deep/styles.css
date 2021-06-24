@@ -1,0 +1,8 @@
+pre {
+    background: #c1c1c1;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.pre-line {
+    white-space: pre-line;
+}
